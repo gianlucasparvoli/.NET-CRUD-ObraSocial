@@ -6,3 +6,5 @@ Ej2.6.aspx ------------> Solicitud Cambio Plan
 Ej2.7.aspx ------------> Cambios de plan
 -------------------------------------------------
 Hecho con ASP.NET + VB y SQLServer
+-------------------------------------------------
+ ©Gianluca Sparvoli 2019
