@@ -1,0 +1,179 @@
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\TPFinalLabo4.dll.config
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\TPFinalLabo4.dll
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\TPFinalLabo4.pdb
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\TPFinalLabo4.xml
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\csc.exe
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\csc.exe.config
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\csc.rsp
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\csi.exe
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\csi.exe.config
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\csi.rsp
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.AppContext.dll
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Console.dll
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.IO.Compression.dll
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Security.Claims.dll
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.ValueTuple.dll
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\vbc.exe
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\vbc.exe.config
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\vbc.rsp
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\obj\Debug\TPFinalLabo4.vbprojAssemblyReference.cache
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\obj\Debug\TPFinalLabo4.Resources.resources
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\obj\Debug\TPFinalLabo4.vbproj.GenerateResource.cache
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\obj\Debug\TPFinalLabo4.vbproj.CoreCompileInputs.cache
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\obj\Debug\TPFinalLabo4.vbproj.CopyComplete
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\obj\Debug\TPFinalLabo4.dll
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\obj\Debug\TPFinalLabo4.xml
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\obj\Debug\TPFinalLabo4.pdb
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\TPFinalLabo4.dll.config
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\TPFinalLabo4.dll
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\TPFinalLabo4.pdb
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\TPFinalLabo4.xml
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\csc.exe
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\csc.exe.config
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\csc.rsp
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\csi.exe
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\csi.exe.config
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\csi.rsp
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\Microsoft.Managed.Core.targets
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.AppContext.dll
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Collections.Immutable.dll
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Console.dll
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.IO.Compression.dll
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.IO.FileSystem.dll
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.IO.Pipes.dll
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Reflection.Metadata.dll
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Security.AccessControl.dll
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Security.Claims.dll
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Security.Principal.Windows.dll
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.ValueTuple.dll
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Xml.XmlDocument.dll
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Xml.XPath.dll
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\vbc.exe
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\vbc.exe.config
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\vbc.rsp
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\VBCSCompiler.exe
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\VBCSCompiler.exe.config
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\obj\Debug\TPFinalLabo4.vbprojAssemblyReference.cache
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\obj\Debug\TPFinalLabo4.Resources.resources
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\obj\Debug\TPFinalLabo4.vbproj.GenerateResource.cache
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\obj\Debug\TPFinalLabo4.vbproj.CopyComplete
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\obj\Debug\TPFinalLabo4.dll
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\obj\Debug\TPFinalLabo4.xml
+D:\TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\obj\Debug\TPFinalLabo4.pdb
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\TPFinalLabo4.dll.config
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\TPFinalLabo4.dll
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\TPFinalLabo4.pdb
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\TPFinalLabo4.xml
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\csc.exe
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\csc.exe.config
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\csc.rsp
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\csi.exe
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\csi.exe.config
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\csi.rsp
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.AppContext.dll
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Console.dll
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.IO.Compression.dll
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Security.Claims.dll
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.ValueTuple.dll
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\vbc.exe
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\vbc.exe.config
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\vbc.rsp
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\obj\Debug\TPFinalLabo4.vbprojAssemblyReference.cache
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\obj\Debug\TPFinalLabo4.Resources.resources
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\obj\Debug\TPFinalLabo4.vbproj.GenerateResource.cache
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\obj\Debug\TPFinalLabo4.vbproj.CoreCompileInputs.cache
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\obj\Debug\TPFinalLabo4.vbproj.CopyComplete
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\obj\Debug\TPFinalLabo4.dll
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\obj\Debug\TPFinalLabo4.xml
+C:\Users\Gianluca Sparvoli\Desktop\SPARVOLI GIANLUCA - TPFinalLabo4\TPFinalLabo4\TPFinalLabo4\obj\Debug\TPFinalLabo4.pdb
